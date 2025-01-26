@@ -29,7 +29,7 @@ I'm a passionate and dedicated software engineer with a strong foundation in com
 <!--
 🎓 Recent [University Name] graduate, holding a Bachelor's in Computer Science and seeking a full-time software engineer role to create meaningful solutions with my skills.
 -->
-Let's connect on [LinkedIn](https://www.linkedin.com/in/aritra-ranjan-chowdhury-a517a0200) and discuss how we can build a tech-infused future together!
+Let's connect on [LinkedIn](www.linkedin.com/in/digdorshee-ghosal-4998a0200) and discuss how we can build a tech-infused future together!
 
 <div align="center" display="block">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arque1393&show_icons=true&locale=en&layout=compact" alt="arque1393" />
