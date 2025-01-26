@@ -34,7 +34,7 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/digdorshee-ghosal-4998a0
 <div align="center" display="block">
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Digdorshee5&show_icons=true&locale=en&layout=compact" alt="Digdorshee5" /> -->
 </div><br>
-<p align="center" display="block"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Digdorshee5&" alt="Digdorshee5" /></p>
+<!-- <p align="center" display="block"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Digdorshee5&" alt="Digdorshee5" /></p> -->
 <p align="center" display="block">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Digdorshee5&show_icons=true&locale=en" alt="Digdorshee5" /></p>
 <p align="center" display="block"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Digdorshee5&" alt="Digdorshee5" /></p>
 
