@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm a passionate and dedicated software engineer with a strong foundation in computer science. Proficient in various programming languages and frameworks like Python, JavaScript, C#, etc. My curiosity extends to machine learning, deep learning, and the fascinating realm of quantum computing.
 
-<p align="center" display="block"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arque1393" alt="arque1393" /></a> </p>
+<p align="center" display="block"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Digdorshee5" alt="Digdorshee5" /></a> </p>
 
 - 🌐 Exploring the boundaries of technology is my passion.
 - 🧠 As an AI and Quantum Computing enthusiast, I find joy in learning and experimenting with the latest advancements.
