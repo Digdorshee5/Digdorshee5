@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/digdorshee-ghosal-4998a0200/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="30" height="30" alt="LinkedIn"
     />
+    <h3>"LinkedIn - Connect"</h3>
   </a>
 
   <a href="https://github.com/Digdorshee5">
