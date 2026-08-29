@@ -4,14 +4,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/digdorshee-ghosal-4998a0200/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="30" height="30" alt="LinkedIn"
-        alt="LinkedIn - Connect"
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:digdorsheeg@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Mail"
     />
   </a>
 
   <a href="https://github.com/Digdorshee5">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="30" height="30" alt="GitHub" 
-    alt="GitHub - Digdorshee5"
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
     />
   </a>
 </p>
