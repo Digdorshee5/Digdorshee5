@@ -148,8 +148,9 @@ I'm an **Azure Data Engineer** focused on building scalable, reliable, and produ
 
 I work primarily with **Azure Data Factory, Azure Databricks, PySpark, SQL, and Delta Lake**, with a strong focus on **data pipeline orchestration, ETL/ELT, distributed data processing, and cloud data platforms**.
 
-I enjoy solving real-world data engineering problems, designing efficient data pipelines, and continuously improving my expertise in **Azure, Databricks, Apache Spark, and modern data engineering practices**.
+Alongside Data Engineering, I'm currently **exploring Generative AI, LLMs, and AI-powered applications**, expanding my knowledge of how AI can be applied to modern data and cloud platforms.
 
+I enjoy solving practical engineering problems and continuously improving my expertise in **data engineering, cloud technologies, and emerging AI technologies**.
 ---
 
 ## 🛠️ Tech Stack
