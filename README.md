@@ -10,9 +10,8 @@
   </a>
 
   <a href="https://github.com/Digdorshee5">
-    <img
-      src="https://img.shields.io/badge/GitHub-Digdorshee5-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub - Digdorshee5"
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub" 
+    alt="GitHub - Digdorshee5"
     />
   </a>
 </p>
