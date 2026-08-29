@@ -4,7 +4,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/digdorshee-ghosal-4998a0200/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
   </a>
   <a href="https://github.com/Digdorshee5">
     <img src="https://img.shields.io/badge/GitHub-Digdorshee5-black?style=for-the-badge&logo=github" />
