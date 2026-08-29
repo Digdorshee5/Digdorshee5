@@ -10,7 +10,7 @@
   </a>
 
   <a href="https://github.com/Digdorshee5">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub" 
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="30" height="30" alt="GitHub" 
     alt="GitHub - Digdorshee5"
     />
   </a>
