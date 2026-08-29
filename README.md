@@ -4,20 +4,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/digdorshee-ghosal-4998a0200/">
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
-      width="20" 
-      height="20" 
-      alt="LinkedIn"
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn - Connect"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/Digdorshee5">
-    <img 
-      src="https://cdn.simpleicons.org/github/ffffff" 
-      width="20" 
-      height="20" 
-      alt="GitHub"
+    <img
+      src="https://img.shields.io/badge/GitHub-Digdorshee5-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub - Digdorshee5"
     />
   </a>
 </p>
