@@ -150,7 +150,8 @@ I work primarily with **Azure Data Factory, Azure Databricks, PySpark, SQL, and 
 
 Alongside Data Engineering, I'm currently **exploring Generative AI, LLMs, and AI-powered applications**, expanding my knowledge of how AI can be applied to modern data and cloud platforms.
 
-I enjoy solving practical engineering problems and continuously improving my expertise in **data engineering, cloud technologies, and emerging AI technologies**.
+I enjoy solving practical engineering problems and continuously improving my expertise in data engineering, cloud technologies, and emerging AI technologies.
+
 ---
 
 ## 🛠️ Tech Stack
