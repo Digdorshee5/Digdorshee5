@@ -146,11 +146,9 @@ https://github.com/Digdorshee5
 
 I'm an **Azure Data Engineer** focused on building scalable, reliable, and production-grade data engineering solutions.
 
-I work primarily with **Azure Data Factory, Azure Databricks, PySpark, SQL and Delta Lake**, with a strong interest in **data pipeline orchestration, ETL/ELT, distributed data processing and cloud data platforms**.
+I work primarily with **Azure Data Factory, Azure Databricks, PySpark, SQL, and Delta Lake**, with a strong focus on **data pipeline orchestration, ETL/ELT, distributed data processing, and cloud data platforms**.
 
-Alongside Data Engineering, I'm currently **exploring Generative AI, LLMs and AI-powered applications**, with plans to build practical GenAI projects and integrate AI capabilities with modern data platforms.
-
-I enjoy solving practical engineering problems and continuously improving my understanding of **data engineering, cloud technologies and emerging AI technologies**.
+I enjoy solving real-world data engineering problems, designing efficient data pipelines, and continuously improving my expertise in **Azure, Databricks, Apache Spark, and modern data engineering practices**.
 
 ---
 
