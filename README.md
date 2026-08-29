@@ -4,11 +4,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/digdorshee-ghosal-4998a0200/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" />
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
+      width="40" 
+      height="40" 
+      alt="LinkedIn"
+    />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Digdorshee5">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="32" height="32" alt="GitHub" />
+    <img 
+      src="https://cdn.simpleicons.org/github/ffffff" 
+      width="40" 
+      height="40" 
+      alt="GitHub"
+    />
   </a>
 </p>
 
