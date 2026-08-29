@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/digdorshee-ghosal-4998a0200/">
     <img 
       src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
-      width="40" 
-      height="40" 
+      width="20" 
+      height="20" 
       alt="LinkedIn"
     />
   </a>
@@ -15,8 +15,8 @@
   <a href="https://github.com/Digdorshee5">
     <img 
       src="https://cdn.simpleicons.org/github/ffffff" 
-      width="40" 
-      height="40" 
+      width="20" 
+      height="20" 
       alt="GitHub"
     />
   </a>
